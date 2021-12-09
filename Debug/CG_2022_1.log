@@ -1,0 +1,12 @@
+﻿  Final.cpp
+C:\Users\Marco Mayen\source\repos\CG_2022_1\include\shader_m.h(44,40): warning C4101: 'e': variable local sin referencia
+C:\Users\Marco Mayen\source\repos\CG_2022_1\include\modelAnim.h(104,44): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Marco Mayen\source\repos\CG_2022_1\include\modelAnim.h(520,24): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Marco Mayen\source\repos\CG_2022_1\Final.cpp(1091,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Marco Mayen\source\repos\CG_2022_1\Final.cpp(1092,11): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Marco Mayen\source\repos\CG_2022_1\Final.cpp(1096,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Marco Mayen\source\repos\CG_2022_1\Final.cpp(1097,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Marco Mayen\source\repos\CG_2022_1\Final.cpp(1099,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Marco Mayen\source\repos\CG_2022_1\Final.cpp(1100,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Marco Mayen\source\repos\CG_2022_1\Final.cpp(1108,28): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  CG_2022_1.vcxproj -> C:\Users\Marco Mayen\source\repos\CG_2022_1\Debug\CG_2022_1.exe
